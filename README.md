@@ -1,1 +1,1 @@
-# patrones de diseño
+# Patrones de diseño
